@@ -1,6 +1,6 @@
 ## Hi, I’m Leilany Torres Diaz 👋
 
-I work at the intersection of **computational neuroscience**, **precision psychiatry**, and **machine learning**, using neuroimaging and behavioral data to build quantitative models of brain–behavior relationships.
+I do research at the intersection of **computational neuroscience**, **precision psychiatry**, and **machine learning**, using neuroimaging and behavioral data to build quantitative models of brain–behavior relationships.
 
 I’m especially interested in:
 - Translational and computational psychiatry (rs-fMRI, task fMRI, behavior).
