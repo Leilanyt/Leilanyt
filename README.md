@@ -1,4 +1,4 @@
-## Hi, I’m Leilany Torres Diaz 👋
+## Hi, I’m Leilany Torres Diaz 
 
 I do research at the intersection of **computational neuroscience**, **precision psychiatry**, and **machine learning**, using neuroimaging and behavioral data to build quantitative models of brain–behavior relationships.
 
